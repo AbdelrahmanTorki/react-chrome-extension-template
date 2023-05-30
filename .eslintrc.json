@@ -1,0 +1,9 @@
+{  
+  "rules": {
+    "eqeqeq": "off",
+    "no-console": "off"
+  },
+  "env": {
+    "webextensions": true
+  }
+}
