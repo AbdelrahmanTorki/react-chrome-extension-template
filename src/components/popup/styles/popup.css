@@ -36,7 +36,7 @@ code {
 }
 
 .home-btn{
-  border: 1px solid lightgray;
+  border: 2px solid lightgray;
   color: white;
   background-color: rgba(0, 0, 0, .8);
   padding: 1rem;
