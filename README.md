@@ -18,3 +18,4 @@ To load the extension, run `npm run build` in the command line, then go to `chro
 
 For further changes, all you need is to rerun the build command and the changes will be reflected except for changes in the `manifest.json` and other files in the public directory, you'll need to click on the reload icon on the extension card in the Extensions page for changes to take effect.
 
+> The extnesion template also works in other browsers .e.g. Firefox, Microsoft Edge.
