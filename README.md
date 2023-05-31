@@ -10,7 +10,7 @@ The `scripts` folder at the root directory contains `build.js`, `start.js` and `
 ## Development 
 To get started, clone the project and run `npm install`.
 
-For developing the popup and home UI, run `npm run start` and navigate to [http://localhost:3000](http://localhost:3000) for **index.html** (popup page) and [http://localhost:3000\home.html](http://localhost:3000\home.html) for **home.html** page. 
+For developing the popup and home UI, run `npm run start` and navigate to [http://localhost:3000](http://localhost:3000) for **index.html** (popup page) and [http://localhost:3000/home.html](http://localhost:3000/home.html) for **home.html** page. 
 
 Chrome extensions API won't work in local development, so it's useful for only developing the UI, to test chrome API code changes, you'll need to rebuild the extension.
 ## Loading the extension
